@@ -1,2 +1,2 @@
 # ForGrace
-I made this for my Grace.
+for my Grace.
