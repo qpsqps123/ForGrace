@@ -1,2 +1,2 @@
 # ForGrace
-for my Grace.
+or my Grace.
