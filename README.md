@@ -1,1 +1,1 @@
-# or grace.
+# For grace.
